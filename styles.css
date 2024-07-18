@@ -157,7 +157,7 @@ section:first-of-type {
         top: 210px;
     }
 
-    main img, nav img, .top-link {
+    main img, nav img, .top_link {
         display: none;
     }
 
